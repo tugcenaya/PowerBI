@@ -1,0 +1,67 @@
+Bölge Kodu;Bölge Adý;Teslim Edilen Þehir Kodu;Teslim Edilen Þehir Adý;PostaKodu;Boylam;Enlem
+1;Akdeniz Bölgesi;1;Adana;1011;35,321333;37
+4;Güneydoðu Anadolu Bölgesi;2;Adýyaman;9630;38,278561;37,764751
+3;Ege Bölgesi;3;Afyon;627;30,556692;38,750714
+2;Doðu Anadolu Bölgesi;4;Aðrý;4104;43,021596;39,626922
+6;Karadeniz Bölgesi;5;Amasya;8083;35,83532;40,64991
+5;Ýç Anadolu Bölgesi;6;Ankara;3216;32,85411;39,92077
+1;Akdeniz Bölgesi;7;Antalya;3910;30,70563;36,88414
+6;Karadeniz Bölgesi;8;Artvin;2113;41,818292;41,18277
+3;Ege Bölgesi;9;Aydýn;9010;27,841631;37,856041
+7;Marmara Bölgesi;10;Balýkesir;3620;27,88261;39,648369
+7;Marmara Bölgesi;11;Bilecik;920;30,066524;40,056656
+2;Doðu Anadolu Bölgesi;12;Bingöl;610;40,76961;39,062635
+2;Doðu Anadolu Bölgesi;13;Bitlis;7010;42,12318;38,393799
+6;Karadeniz Bölgesi;14;Bolu;7903;31,578809;40,575977
+1;Akdeniz Bölgesi;15;Burdur;4120;30,066524;37,461267
+7;Marmara Bölgesi;16;Bursa;3210;29,063448;40,266864
+7;Marmara Bölgesi;17;Çanakkale;9522;26,41416;40,155312
+5;Ýç Anadolu Bölgesi;18;Çankýrý;3420;33,613421;40,601343
+6;Karadeniz Bölgesi;19;Çorum;3500;34,955556;40,550556
+3;Ege Bölgesi;20;Denizli;4110;29,08639;37,77652
+4;Güneydoðu Anadolu Bölgesi;21;Diyarbakýr;7022;40,230629;37,91441
+7;Marmara Bölgesi;22;Edirne;9818;26,562269;41,681808
+2;Doðu Anadolu Bölgesi;23;Elazýð;8051;39,226398;38,680969
+2;Doðu Anadolu Bölgesi;24;Erzincan;112;39,5;39,75
+2;Doðu Anadolu Bölgesi;25;Erzurum;2016;41,27;39,9
+5;Ýç Anadolu Bölgesi;26;Eskiþehir;210;30,520556;39,776667
+4;Güneydoðu Anadolu Bölgesi;27;Gaziantep;1023;37,38332;37,06622
+6;Karadeniz Bölgesi;28;Giresun;4110;38,38953;40,912811
+6;Karadeniz Bölgesi;29;Gümüþhane;7910;39,508556;40,438588
+2;Doðu Anadolu Bölgesi;30;Hakkari;112;43,733333;37,583333
+1;Akdeniz Bölgesi;31;Hatay;610;36,34981;36,401849
+1;Akdeniz Bölgesi;32;Isparta;3204;30,556561;37,764771
+1;Akdeniz Bölgesi;33;Mersin Ýçel;604;36,8;34,63
+7;Marmara Bölgesi;34;Ýstanbul;1021;28,97696;41,00527
+3;Ege Bölgesi;35;Ýzmir;4412;27,12872;38,41885
+2;Doðu Anadolu Bölgesi;36;Kars;4414;43,1;40,616667
+6;Karadeniz Bölgesi;37;Kastamonu;3411;33,78273;41,38871
+5;Ýç Anadolu Bölgesi;38;Kayseri;3110;35,478729;38,73122
+7;Marmara Bölgesi;39;Kýrklareli;3210;27,216667;41,733333
+5;Ýç Anadolu Bölgesi;40;Kýrþehir;9400;34,17091;39,14249
+7;Marmara Bölgesi;41;Kocaeli;4310;29,88152;40,85327
+5;Ýç Anadolu Bölgesi;42;Konya;4010;32,483333;37,866667
+3;Ege Bölgesi;43;Kütahya;1041;29,983333;39,416667
+2;Doðu Anadolu Bölgesi;44;Malatya;4930;38,30946;38,35519
+3;Ege Bölgesi;45;Manisa;9400;27,428921;38,619099
+1;Akdeniz Bölgesi;46;Kahramanmaraþ;9522;36,937149;37,585831
+4;Güneydoðu Anadolu Bölgesi;47;Mardin;7630;40,724477;37,321163
+3;Ege Bölgesi;48;Muðla;612;28,363611;37,215278
+2;Doðu Anadolu Bölgesi;49;Muþ;5024;41,753893;38,946189
+5;Ýç Anadolu Bölgesi;50;Nevþehir;2024;34,685651;38,69394
+5;Ýç Anadolu Bölgesi;51;Niðde;2012;34,683333;37,966667
+6;Karadeniz Bölgesi;52;Ordu;5512;37,876411;40,983879
+6;Karadeniz Bölgesi;53;Rize;1042;40,523449;41,02005
+7;Marmara Bölgesi;54;Sakarya;8022;30,435763;40,693997
+6;Karadeniz Bölgesi;55;Samsun;3330;36,33128;41,292782
+4;Güneydoðu Anadolu Bölgesi;56;Siirt;8024;41,95;37,933333
+6;Karadeniz Bölgesi;57;Sinop;3434;35,153069;42,02314
+5;Ýç Anadolu Bölgesi;58;Sivas;3210;37,017879;39,747662
+7;Marmara Bölgesi;59;Tekirdað;4500;27,516667;40,983333
+6;Karadeniz Bölgesi;60;Tokat;112;36,55;40,316667
+6;Karadeniz Bölgesi;61;Trabzon;9812;39,7178;41,00145
+2;Doðu Anadolu Bölgesi;62;Tunceli;4730;39,438778;39,307355
+4;Güneydoðu Anadolu Bölgesi;63;Þanlýurfa;626;38,796909;37,159149
+3;Ege Bölgesi;64;Uþak;600;29,40819;38,682301
+2;Doðu Anadolu Bölgesi;65;Van;7924;43,40889;38,48914
+5;Ýç Anadolu Bölgesi;66;Yozgat;9012;34,81469;39,818081
